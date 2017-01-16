@@ -14,7 +14,7 @@ In numerical computing in python, numpy is essential. I'm writing simple (a few 
   * Random sampling (numpy.random) (DONE)
   * Set routines (DONE)
   * Sorting, searching, and counting (DONE)
-  * Statistics (WIP)
+  * Statistics (DONE)
 
 Nov., 2016
 Kyubyong
