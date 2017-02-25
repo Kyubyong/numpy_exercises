@@ -1,10 +1,10 @@
-# numpy exercises
+# NumPy Exercises
 
-In numerical computing in python, numpy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The basic outline will be as follows.
+In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
 
   * Array creation routines (DONE)
   * Array manipulation routines (DONE)
-  * String operations (WIP)
+  * String operations (DONE)
   * Numpy-specific help functions (DONE)
   * Indexing routines (WIP)
   * Input and output (WIP)
