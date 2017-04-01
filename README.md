@@ -7,7 +7,7 @@ In numerical computing in python, NumPy is essential. I'm writing simple (a few 
   * String operations (DONE)
   * Numpy-specific help functions (DONE)
   * Indexing routines (WIP)
-  * Input and output (WIP)
+  * Input and output (DONE)
   * Linear algebra (numpy.linalg) (DONE)
   * Logic functions (DONE)
   * Mathematical functions (DONE)
